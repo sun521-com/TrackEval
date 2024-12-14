@@ -1,8 +1,6 @@
 """ Test to ensure that the code is working correctly.
 Runs all metrics on 14 trackers for the MOT Challenge MOT17 benchmark.
 """
-
-
 import sys
 import os
 import numpy as np
